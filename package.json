@@ -16,5 +16,16 @@
   },
   "engines": {
     "node": ">=4.4.5"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqrln/image-average-color.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aqrln/image-average-color/issues"
+  },
+  "homepage": "https://github.com/aqrln/image-average-color#readme"
 }
